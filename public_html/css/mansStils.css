@@ -1,0 +1,29 @@
+        table, th, td {
+  border: 1px solid black;
+}
+    body {
+  background-color: lightgray;
+}
+h2 {
+  color: darkmagenta;
+  font-size: 45px;
+}
+p {
+  color: black;
+  font-size: 25px;
+}
+li {
+    color: darkgreen;
+    font-size: 20px;
+}
+th {
+    color: salmon;
+     font: caption;
+    font-size: 30px;
+}
+td {
+    color: darkgreen;
+    font: caption;
+    font-size: 20px;
+     
+}
